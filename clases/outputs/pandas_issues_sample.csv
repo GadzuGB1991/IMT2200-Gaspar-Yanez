@@ -1,0 +1,11 @@
+number,title,state,user_login,comments,created_at,updated_at,html_url
+62143,DOC: Clarify is_scalar docstring to specify scalar vs non-scalar and add Enum example (GH#62063),open,Aniketsy,0,2025-08-19T07:22:18Z,2025-08-19T07:22:18Z,https://github.com/pandas-dev/pandas/pull/62143
+62142,DEPR: Categorical with values not present in categories,open,jbrockmendel,0,2025-08-18T21:30:22Z,2025-08-19T02:48:17Z,https://github.com/pandas-dev/pandas/pull/62142
+62141,ENH: Consistent `name` property for the iterates in `DataFrameGroupBy`,open,FelixBenning,2,2025-08-18T10:00:32Z,2025-08-19T05:53:28Z,https://github.com/pandas-dev/pandas/issues/62141
+62139,BUG: Fix to_csv microsecond inconsistency (#62111),open,prazian,0,2025-08-18T07:58:24Z,2025-08-18T14:05:08Z,https://github.com/pandas-dev/pandas/pull/62139
+62138,BUG: Preserve day freq on DatetimeIndex subtraction,open,23f-1000003,1,2025-08-18T06:05:44Z,2025-08-18T06:06:44Z,https://github.com/pandas-dev/pandas/pull/62138
+62137,ENH: Rename DataFrame._append to _append_internal,open,whyvineet,0,2025-08-18T05:41:28Z,2025-08-18T08:02:32Z,https://github.com/pandas-dev/pandas/pull/62137
+62136,DOC: Deprecate empty string defaults in DataFrame.join suffixes,open,Roline-Stapny,0,2025-08-18T04:55:03Z,2025-08-18T04:55:03Z,https://github.com/pandas-dev/pandas/pull/62136
+62135,BUG: Fix groupby.apply() dropping _metadata from subclassed DataFrame,open,MengAiDev,2,2025-08-18T01:09:31Z,2025-08-18T06:15:26Z,https://github.com/pandas-dev/pandas/pull/62135
+62134,BUG: groupby.apply() drops _metadata from subclassed DataFrame,open,JBGreisman,0,2025-08-17T15:03:32Z,2025-08-17T15:37:00Z,https://github.com/pandas-dev/pandas/issues/62134
+62131,ENH: Enable destination aware scope for dataset attributes metadata propagation copy routines,open,dangreb,4,2025-08-16T08:40:19Z,2025-08-18T17:30:22Z,https://github.com/pandas-dev/pandas/pull/62131
