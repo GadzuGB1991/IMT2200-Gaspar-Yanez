@@ -1,0 +1,471 @@
+speciesCode,comName,sciName,locId,locName,obsDt,howMany,lat,lng,obsValid,obsReviewed,locationPrivate,subId
+andfli1,Andean Flicker,Colaptes rupicola,L17364264,"Lauca National Park, Putre CL-Arica y Parinacota -18.21656, -69.30211",2022-01-08 12:50,1.0,-18.21656,-69.302112,True,False,True,S100341880
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L724695,Vados del Putana,2022-01-13 08:14,2.0,-22.533805,-68.0335236,True,True,False,S101109358
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L594542,Embalse El Yeso--Vegas superiores,2022-01-22 17:49,1.0,-33.6250545,-70.0251281,True,False,False,S101243806
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2022-01-22 13:00,2.0,-18.2026148,-69.2682409,True,False,False,S101473648
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L516158,Embalse El Yeso,2022-01-24 10:05,1.0,-33.6474929,-70.0670242,True,False,False,S101389073
+andfli1,Andean Flicker,Colaptes rupicola,L2433936,PN Lauca--Lagunas Cotacotani,2022-01-28 13:28,1.0,-18.2064038,-69.2250252,True,False,False,S101582808
+andfli1,Andean Flicker,Colaptes rupicola,L2986531,PN Lauca--Casa vieja,2022-01-30 12:00,1.0,-18.2127735,-69.2750323,True,False,False,S102820419
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L5462210,Aguas Calientes--Vegas,2022-02-02 09:30,1.0,-36.907567,-71.3720101,True,False,False,S146863387
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L802007,Valle de las Termas del Plomo,2022-02-04 14:02,2.0,-33.6314865,-69.9248886,True,False,False,S102184089
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L677238,Valle Nevado,2022-02-06 14:30,1.0,-33.3564128,-70.2490819,True,False,False,S102171924
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L516158,Embalse El Yeso,2022-02-07 11:00,1.0,-33.6474929,-70.0670242,True,False,False,S102275209
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L594542,Embalse El Yeso--Vegas superiores,2022-02-10 06:44,1.0,-33.6250545,-70.0251281,True,False,False,S102600172
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L594542,Embalse El Yeso--Vegas superiores,2022-02-11 06:01,1.0,-33.6250545,-70.0251281,True,False,False,S102430702
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L594542,Embalse El Yeso--Vegas superiores,2022-02-12 13:39,1.0,-33.6250545,-70.0251281,True,False,False,S102515044
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L17641137,Laguna El Planchón,2022-02-15 11:30,2.0,-35.1687427,-70.5442491,True,False,False,S102965082
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L17768493,Embalse el Yeso,2022-02-16 14:00,1.0,-33.6383,-70.0307,True,False,True,S102766915
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L677238,Valle Nevado,2022-02-20 11:00,2.0,-33.3564128,-70.2490819,True,False,False,S103281974
+andfli1,Andean Flicker,Colaptes rupicola,L17867930,"Parque Nacional Lauca, Putre CL-Arica y Parinacota -18.20612, -69.26895",2022-02-21 13:45,6.0,-18.20612,-69.268947,True,False,True,S103387722
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L17901690,P.N Laguna Laja,2022-02-22 14:00,2.0,-37.3969412,-71.4556082,True,False,True,S103600481
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L17899250,"8171032, San José de Maipo CL-Santiago -33.61798, -69.91009",2022-02-23 11:50,1.0,-33.617983,-69.910086,True,False,True,S103586132
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L4376534,Río Hurtado--Majada Quebrada La Piedra,2022-02-24 14:00,1.0,-30.5582942,-70.3177303,True,False,False,S103974726
+andfli1,Andean Flicker,Colaptes rupicola,L572426,PN Lauca--Las Cuevas,2022-02-26 13:18,1.0,-18.1670566,-69.4337654,True,False,False,S103795354
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L4065625,"Humedal Ánima y Estero Poleo, Ruta D-115 Km 72",2022-02-26 11:03,3.0,-29.4971273,-70.5171204,True,False,False,S103783596
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L18031298,Humedal El Ternero,2022-03-05 14:21,4.0,-30.5598392,-70.2757042,True,False,True,S104329915
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L516158,Embalse El Yeso,2022-03-06 16:49,5.0,-33.6474929,-70.0670242,True,False,False,S104346413
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L1147111,Farellones,2022-03-10 07:48,1.0,-33.3520394,-70.3129292,True,False,False,S104581868
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L17442044,Parque Valle del Yeso - Vega con afloramiento de agua,2022-03-12 12:30,1.0,-33.6360239,-69.9398824,True,False,True,S104829781
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L516158,Embalse El Yeso,2022-03-13 15:40,1.0,-33.6474929,-70.0670242,True,False,False,S104976063
+andfli1,Andean Flicker,Colaptes rupicola,L2986531,PN Lauca--Casa vieja,2022-03-14 09:14,2.0,-18.2127735,-69.2750323,True,False,False,S104869116
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L7197564,La Parva--Pueblo,2022-03-14 09:00,2.0,-33.3346194,-70.2905418,True,False,False,S118074056
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L17641137,Laguna El Planchón,2022-03-16 11:00,1.0,-35.1687427,-70.5442491,True,False,False,S105037583
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L594542,Embalse El Yeso--Vegas superiores,2022-03-19 06:00,1.0,-33.6250545,-70.0251281,True,False,False,S105384121
+andfli1,Andean Flicker,Colaptes rupicola,L2986531,PN Lauca--Casa vieja,2022-03-26 15:05,1.0,-18.2127735,-69.2750323,True,True,False,S105648544
+andfli1,Andean Flicker,Colaptes rupicola,L1048926,PN Lauca--Chucuyo,2022-03-28 16:29,5.0,-18.2161033,-69.3014574,True,True,False,S105809611
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L802007,Valle de las Termas del Plomo,2022-03-28 12:21,2.0,-33.6314865,-69.9248886,True,False,False,S105820578
+andfli1,Andean Flicker,Colaptes rupicola,L572426,PN Lauca--Las Cuevas,2022-03-29 17:58,1.0,-18.1670566,-69.4337654,True,False,False,S105855374
+andfli1,Andean Flicker,Colaptes rupicola,L2986531,PN Lauca--Casa vieja,2022-03-30 13:47,5.0,-18.2127735,-69.2750323,True,False,False,S105899408
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L25372168,Salamanca--Estero de las Puertecillas,2022-04-05 12:30,1.0,-31.6524455,-70.627043,True,False,False,S142281359
+andfli1,Andean Flicker,Colaptes rupicola,L18397739,"Cruce A-95 (Vislubio) - Chua - Cruce A-231 (Misitune), Putre CL-Arica y Parinacota -18.47294, -69.28762",2022-04-06 09:38,1.0,-18.472944,-69.287618,True,False,True,S106419203
+andfli1,Andean Flicker,Colaptes rupicola,L16127846,"Ruta Andina, General Lagos CL-Arica y Parinacota -17.82547, -69.31648",2022-04-07 13:16,1.0,-17.825473,-69.316479,True,False,True,S106472479
+andfli1,Andean Flicker,Colaptes rupicola,L18458334,"Avenida Simón Bolívar, Chucuyo, Arica y Parinacota, CL (-18.219, -69.309)",2022-04-09 17:19,3.0,-18.218672,-69.3091361,True,False,True,S106760578
+andfli1,Andean Flicker,Colaptes rupicola,L18458406,"A-235, Putre, Arica y Parinacota, CL (-18.75, -69.101)",2022-04-10 15:03,2.0,-18.749765,-69.1008614,True,False,True,S106760975
+andfli1,Andean Flicker,Colaptes rupicola,L18529761,Quebrada cerca de Pucara,2022-04-15 17:10,2.0,-17.8256365,-69.3175707,True,False,True,S107170640
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2022-04-16 11:05,4.0,-18.2026148,-69.2682409,True,False,False,S107184288
+andfli1,Andean Flicker,Colaptes rupicola,L8035326,Caquena--Bofedal,2022-04-19 14:54,1.0,-18.0636399,-69.2008159,True,False,False,S107479923
+andfli1,Andean Flicker,Colaptes rupicola,L572426,PN Lauca--Las Cuevas,2022-04-20 13:35,3.0,-18.1670566,-69.4337654,True,False,False,S107552166
+andfli1,Andean Flicker,Colaptes rupicola,L18619970,Guacoyo - Chusicane,2022-04-21 12:18,2.0,-17.8077609,-69.3131086,True,False,True,S107662947
+andfli1,Andean Flicker,Colaptes rupicola,L8035324,Caquena--Bofedal,2022-04-24 14:05,4.0,-18.0636399,-69.2008159,True,False,False,S107950146
+andfli1,Andean Flicker,Colaptes rupicola,L572426,PN Lauca--Las Cuevas,2022-04-25 14:39,1.0,-18.1670566,-69.4337654,True,False,False,S108807282
+andfli1,Andean Flicker,Colaptes rupicola,L7373280,Visviri,2022-04-26 08:09,2.0,-17.596954,-69.480715,True,False,True,S108809911
+andfli1,Andean Flicker,Colaptes rupicola,L1048926,PN Lauca--Chucuyo,2022-04-27 12:11,1.0,-18.2161033,-69.3014574,True,False,False,S108895576
+andfli1,Andean Flicker,Colaptes rupicola,L1048926,PN Lauca--Chucuyo,2022-05-12 09:10,7.0,-18.2161033,-69.3014574,True,False,False,S110307070
+andfli1,Andean Flicker,Colaptes rupicola,L2986531,PN Lauca--Casa vieja,2022-05-14 13:11,2.0,-18.2127735,-69.2750323,True,False,False,S110271559
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L4065625,"Humedal Ánima y Estero Poleo, Ruta D-115 Km 72",2022-05-14 12:57,1.0,-29.4971273,-70.5171204,True,False,False,S110166803
+andfli1,Andean Flicker,Colaptes rupicola,L572426,PN Lauca--Las Cuevas,2022-05-15 11:39,1.0,-18.1670566,-69.4337654,True,False,False,S110250953
+andfli1,Andean Flicker,Colaptes rupicola,L572426,PN Lauca--Las Cuevas,2022-05-20 16:34,1.0,-18.1670566,-69.4337654,True,False,False,S110799289
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2022-05-25 12:05,3.0,-18.2026148,-69.2682409,True,False,False,S111283346
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2022-05-26 07:21,13.0,-18.2026148,-69.2682409,True,False,False,S111344800
+andfli1,Andean Flicker,Colaptes rupicola,L572426,PN Lauca--Las Cuevas,2022-06-12 13:26,1.0,-18.1670566,-69.4337654,True,False,False,S112828762
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2022-07-02 15:20,1.0,-18.2026148,-69.2682409,True,False,False,S114568450
+andfli1,Andean Flicker,Colaptes rupicola,L16837540,Guallatiri--Bofedal,2022-07-07 14:10,1.0,-18.5321186,-69.1704598,True,False,True,S114679726
+andfli1,Andean Flicker,Colaptes rupicola,L2986531,PN Lauca--Casa vieja,2022-07-08 11:15,2.0,-18.2127735,-69.2750323,True,True,False,S114679971
+andfli1,Andean Flicker,Colaptes rupicola,L5071554,PN Lauca--CH11,2022-07-15 10:00,5.0,-18.1608789,-69.4803822,True,False,False,S144566912
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2022-07-21 14:35,2.0,-18.2026148,-69.2682409,True,False,False,S115491079
+andfli1,Andean Flicker,Colaptes rupicola,L2986531,PN Lauca--Casa vieja,2022-07-26 17:19,8.0,-18.2127735,-69.2750323,True,False,False,S115817454
+andfli1,Andean Flicker,Colaptes rupicola,L2349056,PN Lauca--Estación CONAF,2022-08-18 12:41,2.0,-18.2507578,-69.1767775,True,False,False,S117168857
+andfli1,Andean Flicker,Colaptes rupicola,L2986531,PN Lauca--Casa vieja,2022-09-08 10:00,7.0,-18.2127735,-69.2750323,True,False,False,S118669823
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2022-09-10 11:54,1.0,-18.2026148,-69.2682409,True,False,False,S118588971
+andfli1,Andean Flicker,Colaptes rupicola,L2986531,PN Lauca--Casa vieja,2022-09-12 09:23,10.0,-18.2127735,-69.2750323,True,False,False,S118883298
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L2392514,farellones - vega superior,2022-10-06 11:48,1.0,-33.344479,-70.299255,True,False,True,S120074770
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2022-10-08 15:06,5.0,-18.2026148,-69.2682409,True,False,False,S120292085
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L4610999,Vega Las Cuevas,2022-10-08 12:57,1.0,-29.4520389,-70.5828077,True,False,False,S120348355
+andfli1,Andean Flicker,Colaptes rupicola,L22221141,Cruce Parinacota,2022-10-10 11:55,3.0,-18.2276197,-69.2659843,True,False,True,S126259967
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2022-10-15 09:10,8.0,-18.2026148,-69.2682409,True,False,False,S121420881
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L690114,SN Yerba Loca--Límite vegetación arbustiva,2022-10-16 08:44,1.0,-33.2936601,-70.3121567,True,False,False,S120776284
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2022-10-17 15:20,3.0,-18.2026148,-69.2682409,True,False,False,S120850294
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2022-10-18 19:19,2.0,-18.2026148,-69.2682409,True,False,False,S120916474
+andfli1,Andean Flicker,Colaptes rupicola,L2986531,PN Lauca--Casa vieja,2022-10-22 11:09,2.0,-18.2127735,-69.2750323,True,False,False,S121135661
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L9213428,Laguna del Inca,2022-10-22 08:40,1.0,-32.8300063,-70.1314649,True,False,False,S121420173
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2022-10-26 11:00,3.0,-18.2026148,-69.2682409,True,False,False,S121459443
+andfli1,Andean Flicker,Colaptes rupicola,L14186231,PN Lauca--Laguna Chica,2022-10-28 15:00,1.0,-18.2185463,-69.3181249,True,True,False,S121474142
+andfli1,Andean Flicker,Colaptes rupicola,L572426,PN Lauca--Las Cuevas,2022-10-29 11:45,1.0,-18.1670566,-69.4337654,True,True,False,S121539641
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L21401437,Bofedales Parque Andino El Juncal,2022-10-30 09:04,2.0,-32.9487356,-70.1020523,True,False,True,S121604309
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2022-10-30 08:44,5.0,-18.2026148,-69.2682409,True,True,False,S121923226
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L4065625,"Humedal Ánima y Estero Poleo, Ruta D-115 Km 72",2022-11-01 14:02,1.0,-29.4971273,-70.5171204,True,False,False,S123226861
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2022-11-01 09:52,11.0,-18.2026148,-69.2682409,True,False,False,S121676608
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L21424880,"1708 Camino Valle Nevado, Lo Barnechea, Región Metropolitana, CL (-33,36, -70,302)",2022-11-02 13:25,1.0,-33.3604204,-70.3017487,True,False,True,S121748275
+andfli1,Andean Flicker,Colaptes rupicola,L572426,PN Lauca--Las Cuevas,2022-11-02 09:28,1.0,-18.1670566,-69.4337654,True,False,False,S122908716
+andfli1,Andean Flicker,Colaptes rupicola,L572426,PN Lauca--Las Cuevas,2022-11-03 09:57,3.0,-18.1670566,-69.4337654,True,False,False,S121789508
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L21444127,"Camino al Yeso, San José de Maipo CL-Metropolitana de Santiago -33.61350, -69.97448",2022-11-04 14:02,,-33.613503,-69.974485,True,False,True,S121863585
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L8351632,Parque Autóctono San Francisco de Los Andes,2022-11-05 10:01,2.0,-32.6905635,-70.3802443,True,False,False,S121889863
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L516158,Embalse El Yeso,2022-11-08 15:54,1.0,-33.6474929,-70.0670242,True,False,False,S122101495
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L10122889,Laguna El Cepo,2022-11-09 13:42,2.0,-30.2648033,-70.3013935,True,False,False,S122301109
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L10122889,Laguna El Cepo,2022-11-10 09:30,2.0,-30.2648033,-70.3013935,True,False,False,S122304966
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L594542,Embalse El Yeso--Vegas superiores,2022-11-11 09:16,1.0,-33.6250545,-70.0251281,True,False,False,S122239723
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L4610999,Vega Las Cuevas,2022-11-12 11:12,4.0,-29.4520389,-70.5828077,True,False,False,S122394504
+andfli1,Andean Flicker,Colaptes rupicola,L3144471,Caquena,2022-11-12 10:30,6.0,-18.0355452,-69.2175579,True,False,False,S122328020
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2022-11-14 11:46,2.0,-18.2026148,-69.2682409,True,True,False,S122413196
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L21534529,"Camino Embalse El Yeso, San José de Maipo, Región Metropolitana, CL (-33.683, -70.102)",2022-11-14 10:46,1.0,-33.6832168,-70.1024399,True,False,True,S122473010
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2022-11-17 10:08,2.0,-18.2026148,-69.2682409,True,False,False,S124746165
+andfli1,Andean Flicker,Colaptes rupicola,L1048926,PN Lauca--Chucuyo,2022-11-18 15:44,3.0,-18.2161033,-69.3014574,True,False,False,S122642315
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L12989881,Río Loa--Yalquincha,2022-11-18 09:00,1.0,-22.4521977,-68.8781016,True,True,False,S142828815
+andfli1,Andean Flicker,Colaptes rupicola,L21579373,"A-125, General Lagos, Arica y Parinacota, CL (-17.963, -69.454)",2022-11-19 08:18,3.0,-17.9631825,-69.4539142,True,False,True,S122683672
+andfli1,Andean Flicker,Colaptes rupicola,L2986531,PN Lauca--Casa vieja,2022-11-23 18:32,10.0,-18.2127735,-69.2750323,True,False,False,S122899764
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L802007,Valle de las Termas del Plomo,2022-11-23 12:42,1.0,-33.6314865,-69.9248886,True,False,False,S122951005
+andfli1,Andean Flicker,Colaptes rupicola,L21667403,Tacora,2022-11-26 16:30,2.0,-17.7768933,-69.7163882,True,False,True,S123171297
+andfli1,Andean Flicker,Colaptes rupicola,L572426,PN Lauca--Las Cuevas,2022-11-27 09:20,2.0,-18.1670566,-69.4337654,True,False,False,S123180228
+andfli1,Andean Flicker,Colaptes rupicola,L21683133,"Lauca National Park, Putre CL-Arica y Parinacota -18.23639, -69.18250",2022-11-29 14:30,2.0,-18.236391,-69.182501,True,False,True,S123267665
+andfli1,Andean Flicker,Colaptes rupicola,L14186231,PN Lauca--Laguna Chica,2022-12-01 13:55,1.0,-18.2185463,-69.3181249,True,False,False,S123314377
+andfli1,Andean Flicker,Colaptes rupicola,L572426,PN Lauca--Las Cuevas,2022-12-02 12:34,2.0,-18.1670566,-69.4337654,True,False,False,S123601719
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L802007,Valle de las Termas del Plomo,2022-12-02 10:33,4.0,-33.6314865,-69.9248886,True,False,False,S123491353
+andfli1,Andean Flicker,Colaptes rupicola,L21703508,"A-201, Putre, Arica y Parinacota, CL (-18,222, -69,33)",2022-12-03 11:54,3.0,-18.2217989,-69.3303165,True,False,True,S123393697
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L21716120,"San José de Maipo, Región Metropolitana, CL (-33,621, -69,92)",2022-12-03 08:46,2.0,-33.6212543,-69.919533,True,False,True,S123467265
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L802007,Valle de las Termas del Plomo,2022-12-04 08:40,2.0,-33.6314865,-69.9248886,True,False,False,S123491447
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L714715,Paso El Planchón,2022-12-05 11:00,1.0,-35.1836299,-70.5116272,True,False,False,S123549878
+andfli1,Andean Flicker,Colaptes rupicola,L4185252,RN Las Vicuñas--Guallatire,2022-12-06 10:24,1.0,-18.4987382,-69.1538823,True,False,False,S123602276
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L3401210,La Colorada,2022-12-07 12:59,3.0,-30.2612148,-69.9948286,True,False,False,S123615582
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2022-12-08 16:10,3.0,-18.2026148,-69.2682409,True,False,False,S123658180
+andfli1,Andean Flicker,Colaptes rupicola,L2763640,PN Lauca--Bofedal Chucuyo,2022-12-09 08:00,8.0,-18.2,-69.2833333,True,False,False,S211882606
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L5067776,Camino Valle Nevado--Plaza de los Pumas,2022-12-13 14:35,1.0,-33.3598718,-70.2904201,True,False,False,S123927096
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L594542,Embalse El Yeso--Vegas superiores,2022-12-14 12:00,1.0,-33.6250545,-70.0251281,True,False,False,S123972988
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L1066188,Farellones--Acantilados,2022-12-17 20:08,3.0,-33.365983,-70.3065964,True,False,False,S124144998
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L28484615,Río Putana,2022-12-22 09:45,1.0,-22.534,-68.0417,True,True,True,S157354275
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2022-12-26 10:20,8.0,-18.2026148,-69.2682409,True,False,False,S124746051
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L839755,Vega de Quepiaco,2022-12-27 15:56,2.0,-23.0821006,-67.5979918,True,True,False,S124724109
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L21974896,"Camino Embalse El Yeso, San José de Maipo, Región Metropolitana, CL (-33.631, -70.016)",2022-12-30 11:42,1.0,-33.6311761,-70.0158408,True,False,True,S124926984
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L4430149,Ruta D-115--Tramo Puente Potrerillos - Quebrada Casablanca - La Apacheta Rd,2022-12-31 13:15,2.0,-29.3302108,-70.3901302,True,True,False,S125447554
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L22008762,"Ruta 115, San Clemente, Maule, CL (-36.006, -70.479)",2023-01-01 12:10,1.0,-36.0057186,-70.4790916,True,False,True,S125092780
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L516158,Embalse El Yeso,2023-01-05 09:12,1.0,-33.6474929,-70.0670242,True,False,False,S125478608
+andfli1,Andean Flicker,Colaptes rupicola,L572426,PN Lauca--Las Cuevas,2023-01-05 08:03,3.0,-18.1670566,-69.4337654,True,False,False,S125484266
+andfli1,Andean Flicker,Colaptes rupicola,L572426,PN Lauca--Las Cuevas,2023-01-07 11:52,4.0,-18.1670566,-69.4337654,True,False,False,S125645936
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L9213428,Laguna del Inca,2023-01-07 09:20,3.0,-32.8300063,-70.1314649,True,False,False,S125592904
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L1066188,Farellones--Acantilados,2023-01-08 12:37,1.0,-33.365983,-70.3065964,True,False,False,S125708796
+andfli1,Andean Flicker,Colaptes rupicola,L572426,PN Lauca--Las Cuevas,2023-01-10 10:30,3.0,-18.1670566,-69.4337654,True,True,False,S125894241
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L638139,Piedra Numerada,2023-01-14 13:16,1.0,-33.2910414,-70.2188587,True,False,False,S126222871
+andfli1,Andean Flicker,Colaptes rupicola,L22227752,Guacollo,2023-01-14 10:30,2.0,-17.7593871,-69.3450192,True,False,False,S126299594
+andfli1,Andean Flicker,Colaptes rupicola,L572426,PN Lauca--Las Cuevas,2023-01-15 11:00,2.0,-18.1670566,-69.4337654,True,False,False,S126326201
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L22256271,"8171032, San José de Maipo CL-Metropolitana de Santiago -33.70652, -70.12209",2023-01-18 13:27,1.0,-33.706523,-70.12209,True,False,True,S126449182
+andfli1,Andean Flicker,Colaptes rupicola,L2763640,PN Lauca--Bofedal Chucuyo,2023-01-19 10:12,4.0,-18.2,-69.2833333,True,False,False,S126495781
+andfli1,Andean Flicker,Colaptes rupicola,L4860428,Visviri,2023-01-22 12:53,2.0,-17.5966985,-69.4814229,True,False,False,S126821068
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L516158,Embalse El Yeso,2023-01-22 11:35,1.0,-33.6474929,-70.0670242,True,False,False,S126720544
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L22393101,"Yerba Loca, Camino Refugio Aleman",2023-01-29 10:14,1.0,-33.3171879,-70.321827,True,False,True,S127194270
+andfli1,Andean Flicker,Colaptes rupicola,L22408847,PN Lauca--Laguna Laramcota,2023-01-30 13:21,2.0,-18.2070572,-69.2707357,True,False,True,S127285386
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L835079,Paso Pehuenche,2023-01-31 11:40,1.0,-35.9865838,-70.3950691,True,False,False,S127434626
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L677238,Valle Nevado,2023-02-01 12:02,1.0,-33.3564128,-70.2490819,True,False,False,S127396425
+andfli1,Andean Flicker,Colaptes rupicola,L23031540,"RN Las Vicuñas, PN Lauca - general area",2023-02-02,1.0,-18.2778177,-69.3675863,True,False,True,S127484898
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L1030452,Camino a La Parva--Vegas y Pastizales,2023-02-03 11:36,3.0,-33.3442243,-70.299046,True,False,False,S127533914
+andfli1,Andean Flicker,Colaptes rupicola,L1048926,PN Lauca--Chucuyo,2023-02-03 09:00,1.0,-18.2161033,-69.3014574,True,True,False,S127541848
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L802007,Valle de las Termas del Plomo,2023-02-04 18:25,1.0,-33.6314865,-69.9248886,True,False,False,S127785715
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L677238,Valle Nevado,2023-02-06 12:12,1.0,-33.3564128,-70.2490819,True,False,False,S127786042
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L22525546,Vegas--Termas del Plomo,2023-02-09 09:48,3.0,-33.6284492,-69.9169603,True,False,True,S128010558
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L2261013,Portillo,2023-02-11 09:40,1.0,-32.8397891,-70.1312256,True,False,False,S128076585
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L23230828,"91 Emile Allais, Santiago, Región Metropolitana, CL (-33.337, -70.29)",2023-02-12 08:57,3.0,-33.3366037,-70.2895563,True,False,True,S131863326
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L16659982,Termas del Plomo,2023-02-14 09:38,4.0,-33.6178426,-69.9103838,True,False,True,S128372900
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L802007,Valle de las Termas del Plomo,2023-02-18 09:52,1.0,-33.6314865,-69.9248886,True,False,False,S128821124
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L22801973,"176 Emile Allais, Santiago, Región Metropolitana, CL (-33.332, -70.292)",2023-02-25 08:31,1.0,-33.3324375,-70.2918042,True,False,True,S129571900
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2023-02-26 10:40,2.0,-18.2026148,-69.2682409,True,False,False,S129724085
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L5209939,Los Libertadores,2023-02-27 14:48,1.0,-32.846367,-70.117242,True,False,False,S129824708
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L22904045,"8171032, San José de Maipo CL-Santiago -33.61835, -69.91053",2023-03-04 10:47,1.0,-33.618349,-69.910525,True,False,True,S130141568
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L17441842,Parque Valle del Yeso - Termas del Plomo,2023-03-05 15:29,1.0,-33.6179666,-69.9104819,True,False,True,S130273584
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L4376597,Majada Los Vientos,2023-03-06 14:15,2.0,-30.6311041,-70.2797341,True,False,False,S130452075
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L22954290,"8171032, San José de Maipo CL-Santiago -33.61824, -69.91125",2023-03-07 13:14,1.0,-33.618244,-69.911252,True,False,True,S130411156
+andfli1,Andean Flicker,Colaptes rupicola,L572426,PN Lauca--Las Cuevas,2023-03-10 10:39,2.0,-18.1670566,-69.4337654,True,False,False,S130596935
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L23026473,"8171032, San José de Maipo CL-Santiago -33.85104, -69.98296",2023-03-12 12:28,1.0,-33.851038,-69.982961,True,False,True,S130791355
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2023-03-15 10:00,2.0,-18.2026148,-69.2682409,True,False,False,S136562426
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2023-03-16 15:39,8.0,-18.2026148,-69.2682409,True,False,False,S131060760
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L23361938,Cam. Embalse El Yeso -- Pulperia del Arriero (Private),2023-03-16 10:00,1.0,-33.7069702,-70.1210787,True,False,True,S132547337
+andfli1,Andean Flicker,Colaptes rupicola,L23152176,Putre,2023-03-17 12:10,3.0,-18.20528,-69.5563682,True,False,True,S131442992
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L21401437,Bofedales Parque Andino El Juncal,2023-03-18 11:02,1.0,-32.9487356,-70.1020523,True,False,True,S131344347
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L5267143,Parque Andino Juncal--Sendero Juncal,2023-03-19 08:13,1.0,-32.916388,-70.09258,True,False,False,S131324706
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L835079,Paso Pehuenche,2023-03-26 13:23,1.0,-35.9865838,-70.3950691,True,False,False,S131930959
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L835079,Paso Pehuenche,2023-03-29 14:30,1.0,-35.9865838,-70.3950691,True,False,False,S132255936
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L1066188,Farellones--Acantilados,2023-04-01 08:30,1.0,-33.365983,-70.3065964,True,True,False,S133311997
+andfli1,Andean Flicker,Colaptes rupicola,L4860428,Visviri,2023-04-02 09:28,3.0,-17.5966985,-69.4814229,True,False,False,S132637703
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L782003,Laguna Conchuca,2023-04-09 11:33,5.0,-32.0898466,-70.5917931,True,False,False,S133204368
+andfli1,Andean Flicker,Colaptes rupicola,L23968814,"A-23, General Lagos, Arica y Parinacota, CL (-17.722, -69.703)",2023-04-30 15:16,2.0,-17.7224315,-69.7028762,True,False,True,S135718813
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L4065625,"Humedal Ánima y Estero Poleo, Ruta D-115 Km 72",2023-05-13 15:38,5.0,-29.4971273,-70.5171204,True,False,False,S137747270
+andfli1,Andean Flicker,Colaptes rupicola,L2986531,PN Lauca--Casa vieja,2023-05-13 10:19,3.0,-18.2127735,-69.2750323,True,False,False,S137587466
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2023-06-12 11:30,1.0,-18.2026148,-69.2682409,True,False,False,S142825503
+andfli1,Andean Flicker,Colaptes rupicola,L25321261,"Ruta 11 CH, Putre CL-Arica y Parinacota -18.17564, -69.40079",2023-06-19 08:07,1.0,-18.175643,-69.40079,True,False,True,S142113174
+andfli1,Andean Flicker,Colaptes rupicola,L4860428,Visviri,2023-06-25 12:46,1.0,-17.5966985,-69.4814229,True,False,False,S142686797
+andfli1,Andean Flicker,Colaptes rupicola,L25503635,"Carretera Internacional CH 11, Putre, Arica y Parinacota, CL (-18,221, -69,286)",2023-06-26 08:27,4.0,-18.2213455,-69.2856807,True,False,True,S142803228
+andfli1,Andean Flicker,Colaptes rupicola,L8035326,Caquena--Bofedal,2023-06-28 10:15,2.0,-18.0636399,-69.2008159,True,False,False,S143103252
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2023-07-05 18:15,6.0,-18.2026148,-69.2682409,True,False,False,S144680662
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2023-08-12 11:05,6.0,-18.2026148,-69.2682409,True,False,False,S147137579
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2023-08-26 09:44,4.0,-18.2026148,-69.2682409,True,False,False,S148139849
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L26808796,La Corina,2023-08-27 14:46,2.0,-29.7028116,-70.7526032,True,False,True,S148341297
+andfli1,Andean Flicker,Colaptes rupicola,L4860428,Visviri,2023-09-12 14:52,1.0,-17.5966985,-69.4814229,True,False,False,S149741586
+andfli1,Andean Flicker,Colaptes rupicola,L27137904,Salar De Huasco Norte,2023-09-13 13:53,2.0,-20.2630502,-68.875587,True,False,True,S150153518
+andfli1,Andean Flicker,Colaptes rupicola,L27304374,"Carretera Internacional CH 11, Chucuyo, Arica y Parinacota, CL (-18,219, -69,318)",2023-09-27 10:30,1.0,-18.2194784,-69.3179552,True,False,True,S151040379
+andfli1,Andean Flicker,Colaptes rupicola,L27304394,"Avenida Simón Bolívar, Las Cuevas, Arica y Parinacota, CL (-18,17, -69,43)",2023-09-28 09:39,3.0,-18.17002,-69.4301617,True,False,True,S151040506
+andfli1,Andean Flicker,Colaptes rupicola,L8035324,Caquena--Bofedal,2023-10-01 11:31,6.0,-18.0636399,-69.2008159,True,False,False,S151200889
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L7120475,El Cabrerío,2023-10-08 16:37,1.0,-33.8152741,-70.0076401,True,False,False,S151845915
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L811659,MN El Morado,2023-10-09 11:27,4.0,-33.7945557,-70.0733757,True,False,False,S151845911
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2023-10-14 11:20,2.0,-18.2026148,-69.2682409,True,False,False,S152307069
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L2148311,La Parva--Vegas Noroeste,2023-10-14 09:18,1.0,-33.3276597,-70.297308,True,False,False,S152374235
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L27564870,"Camino al Yeso, San José de Maipo CL-Santiago Metropolitan Region (-33.6471,-70.0543)",2023-10-16 09:15,1.0,-33.647102,-70.054311,True,False,True,S152441600
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2023-10-17 11:46,4.0,-18.2026148,-69.2682409,True,False,False,S152467557
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L3089971,Cerro Manquehue,2023-10-19 08:02,5.0,-33.3512508,-70.5797338,True,False,False,S152609881
+andfli1,Andean Flicker,Colaptes rupicola,L27618651,"A-93, Putre, Arica y Parinacota, CL (-18,192, -69,275)",2023-10-21 09:03,6.0,-18.1918949,-69.2748231,True,False,True,S152725133
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2023-10-23 17:09,1.0,-18.2026148,-69.2682409,True,False,False,S152929694
+andfli1,Andean Flicker,Colaptes rupicola,L27665278,"Ruta 11 CH, Putre CL-Arica y Parinacota Region -18.16448, -69.44230",2023-10-24 08:06,2.0,-18.164477,-69.442298,True,False,True,S152964081
+andfli1,Andean Flicker,Colaptes rupicola,L2986531,PN Lauca--Casa vieja,2023-10-29 15:00,1.0,-18.2127735,-69.2750323,True,False,False,S153377830
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L22450459,"Camino a Valle Nevado, Lo Barnechea CL-Metropolitana de Santiago -33.35952, -70.29521",2023-10-30 12:03,1.0,-33.359521,-70.295214,True,False,True,S153397856
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2023-10-30 10:29,2.0,-18.2026148,-69.2682409,True,False,False,S153429656
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L27833131,"Camino termas el plomo, San José de Maipo CL-Santiago Metropolitan Region -33.63010, -69.95309",2023-11-05 15:10,1.0,-33.630098,-69.953094,True,False,True,S153859802
+andfli1,Andean Flicker,Colaptes rupicola,L10918611,RN Las Vicuñas,2023-11-05 10:20,2.0,-18.3252984,-69.3712592,True,False,True,S153833787
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2023-11-07 14:30,5.0,-18.2026148,-69.2682409,True,False,False,S153977011
+andfli1,Andean Flicker,Colaptes rupicola,L4429853,PN Lauca--Río Lauca (CH11),2023-11-08 12:26,1.0,-18.2160957,-69.3241261,True,False,False,S154042203
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L516158,Embalse El Yeso,2023-11-08 07:24,1.0,-33.6474929,-70.0670242,True,False,False,S154026757
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L27875865,"8171032, San José de Maipo CL-Santiago Metropolitan Region (-33.6243,-70.0210)",2023-11-09 16:10,1.0,-33.624333,-70.020977,True,False,True,S154104903
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L27892360,"Camino a Baños Colina, San José de Maipo CL-Región Metropolitana de Santiago -33.82945, -70.08032",2023-11-10 18:34,4.0,-33.829447,-70.080323,True,False,True,S154164284
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L27899199,"Camino a Baños Colina, San José de Maipo CL-Región Metropolitana de Santiago -33.83034, -70.08367",2023-11-11 09:58,6.0,-33.830341,-70.083674,True,False,True,S154199510
+andfli1,Andean Flicker,Colaptes rupicola,L52226243,Lauca NP,2023-11-11,1.0,-18.16073,-69.47291,True,False,True,S270456740
+andfli1,Andean Flicker,Colaptes rupicola,L1048926,PN Lauca--Chucuyo,2023-11-13 09:15,2.0,-18.2161033,-69.3014574,True,False,False,S154416043
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L27958642,"Camino al Yeso, San José de Maipo CL-Región Metropolitana de Santiago (-33.6642,-70.0831)",2023-11-14 08:26,,-33.664178,-70.08305,True,False,True,S154536741
+andfli1,Andean Flicker,Colaptes rupicola,L4860428,Visviri,2023-11-16 17:15,1.0,-17.5966985,-69.4814229,True,False,False,S154652261
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L24162457,"Alto del Carmen, Atacama, CL (-29.09, -69.902)",2023-11-17 15:08,1.0,-29.0899103,-69.9024771,True,False,True,S154634977
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2023-11-18 16:21,3.0,-18.2026148,-69.2682409,True,False,False,S154724173
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L24560652,"2102466, Los Andes CL-Valparaíso (-32.9585,-70.1044)",2023-11-18 13:30,1.0,-32.958478,-70.104427,True,False,True,S154778871
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L28038803,"Camino Al Volcán, Baños Morales, Región Metropolitana, CL (-33.851, -69.988)",2023-11-19 09:30,1.0,-33.8505454,-69.9883778,True,False,True,S154983937
+andfli1,Andean Flicker,Colaptes rupicola,L7373280,Visviri,2023-11-20 14:05,4.0,-17.596954,-69.480715,True,False,True,S154967878
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L28024430,"8171032, San José de Maipo CL-Santiago Metropolitan Region -33.60714, -69.99315",2023-11-20 13:50,2.0,-33.607144,-69.993154,True,False,True,S154903436
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2023-11-21 13:00,3.0,-18.2026148,-69.2682409,True,False,False,S154942347
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L516158,Embalse El Yeso,2023-11-21 11:00,,-33.6474929,-70.0670242,True,False,False,S156860758
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L7197564,La Parva--Pueblo,2023-11-22 10:43,1.0,-33.3346194,-70.2905418,True,False,False,S154983437
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2023-11-22 08:37,11.0,-18.2026148,-69.2682409,True,False,False,S154970714
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2023-11-26 14:52,2.0,-18.2026148,-69.2682409,True,False,False,S155262808
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L28356359,"Camino a Baños Colina, San José de Maipo CL-Región Metropolitana de Santiago (-33.8499,-69.9858)",2023-11-27 11:30,1.0,-33.849943,-69.985755,True,False,True,S156728442
+andfli1,Andean Flicker,Colaptes rupicola,L28140084,"A-385, Colchane, Tarapacá, CL (-19.269, -68.689)",2023-11-29 17:24,2.0,-19.2686807,-68.6888345,True,False,True,S155534683
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L28187629,Vega sin polígono,2023-12-02 17:18,1.0,-33.86083,-69.976745,True,False,True,S155814511
+andfli1,Andean Flicker,Colaptes rupicola,L516530,PN Lauca--Lago Chungará,2023-12-02 08:30,2.0,-18.2560888,-69.1623688,True,False,False,S155633950
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L1062972,Parque Andino Juncal,2023-12-03 10:02,1.0,-32.915954,-70.0926232,True,False,False,S155767373
+andfli1,Andean Flicker,Colaptes rupicola,L4185158,RN Las Vicuñas--Misitune,2023-12-04 13:24,1.0,-18.3692699,-69.3598223,True,False,False,S155765639
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L28187543,"8171032, San José de Maipo CL-Región Metropolitana de Santiago -33.61227, -69.92627",2023-12-04 12:59,1.0,-33.612273,-69.926273,True,False,True,S155813903
+andfli1,Andean Flicker,Colaptes rupicola,L572426,PN Lauca--Las Cuevas,2023-12-05 09:59,1.0,-18.1670566,-69.4337654,True,False,False,S155782781
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2023-12-07 10:21,4.0,-18.2026148,-69.2682409,True,False,False,S156046069
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L677238,Valle Nevado,2023-12-08 15:00,1.0,-33.3564128,-70.2490819,True,False,False,S156019090
+andfli1,Andean Flicker,Colaptes rupicola,L7970499,PN Volcán Isluga--Enquelga,2023-12-09 10:30,1.0,-19.2306778,-68.8031062,True,False,False,S156171456
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L802007,Valle de las Termas del Plomo,2023-12-09 09:34,2.0,-33.6314865,-69.9248886,True,False,False,S156193418
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L28241683,"Camino Internacional Gabriela Mistral, Vicuña CL-Región de Coquimbo (-30.2116,-70.0454)",2023-12-10 19:27,6.0,-30.211593,-70.045357,True,True,True,S156118566
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L1062972,Parque Andino Juncal,2023-12-11 17:53,,-32.915954,-70.0926232,True,False,False,S156882272
+andfli1,Andean Flicker,Colaptes rupicola,L14186231,PN Lauca--Laguna Chica,2023-12-12 14:34,1.0,-18.2185463,-69.3181249,True,False,False,S158600721
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L1066188,Farellones--Acantilados,2023-12-12 13:34,2.0,-33.365983,-70.3065964,True,False,False,S156272494
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L5462210,Aguas Calientes--Vegas,2023-12-14 13:00,1.0,-36.907567,-71.3720101,True,False,False,S156336276
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L4444177,Laguna de los Patos,2023-12-16 12:00,1.0,-33.6044152,-69.9186981,True,False,False,S156489101
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L22930096,Embalse El Yeso--Poza estacional,2023-12-17 16:23,1.0,-33.6313818,-70.0153841,True,False,False,S156586808
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L5267143,Parque Andino Juncal--Sendero Juncal,2023-12-20 18:17,,-32.916388,-70.09258,True,False,False,S156883057
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L21746260,Estero del Aparejo,2023-12-22 11:54,1.0,-33.5964592,-69.9984737,True,False,False,S156884282
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L28411129,"Acceso al Monumento Cristo Redentor, Los Andes CL-Región de Valparaíso -32.82966, -70.07338",2023-12-23 14:38,1.0,-32.829657,-70.073379,True,False,True,S157006292
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L28410964,"Túnel del Cristo Redentor, Los Andes CL-Región de Valparaíso -32.82674, -70.09269",2023-12-24 11:03,1.0,-32.826738,-70.09269,True,False,True,S157005396
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L28445134,"Camino Embalse El Yeso, San José de Maipo, Región Metropolitana, CL (-33.619, -70.004)",2023-12-26 13:00,1.0,-33.6189705,-70.0035611,True,False,True,S157168569
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L4092515,Infiernillo,2023-12-30 13:52,2.0,-30.2240916,-69.9202015,True,False,False,S157534873
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L835069,Laguna del Maule,2024-01-04 13:26,1.0,-36.0565381,-70.4971291,True,False,False,S158087463
+andfli1,Andean Flicker,Colaptes rupicola,L8035324,Caquena--Bofedal,2024-01-06 15:28,2.0,-18.0636399,-69.2008159,True,False,False,S158276277
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L10879229,Cerro Pintor,2024-01-06 11:57,2.0,-33.2894575,-70.2484193,True,False,False,S158250987
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L1186273,"RN Altos de Lircay [usar localidades específicas, por favor]",2024-01-10 13:00,1.0,-35.5930801,-71.0046387,True,False,False,S159950914
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2024-01-12 15:06,1.0,-18.2026148,-69.2682409,True,False,False,S158744107
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L28758615,Andean Condor Lookout,2024-01-12 10:42,1.0,-33.360907,-70.302834,True,False,True,S158764463
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L18031298,Humedal El Ternero,2024-01-13 18:26,2.0,-30.5598392,-70.2757042,True,False,True,S159029008
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L28805126,Río Ternero-Río Hurtado Confluencia,2024-01-14 13:50,1.0,-30.5684799,-70.3052235,True,False,True,S159032571
+andfli1,Andean Flicker,Colaptes rupicola,L2986531,PN Lauca--Casa vieja,2024-01-15 10:20,6.0,-18.2127735,-69.2750323,True,False,False,S159029365
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L11990867,Cancha de carreras,2024-01-21 17:28,1.0,-33.2832423,-70.2413401,True,False,False,S159482323
+andfli1,Andean Flicker,Colaptes rupicola,L717746,PN Salar del Huasco,2024-01-21 08:30,2.0,-20.2939185,-68.8865089,True,False,False,S162314648
+andfli1,Andean Flicker,Colaptes rupicola,L1048926,PN Lauca--Chucuyo,2024-01-22 09:08,7.0,-18.2161033,-69.3014574,True,False,False,S159527720
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L29140022,"Los Andes, Valparaíso, CL (-33,085, -70,214)",2024-01-24 16:54,1.0,-33.0853543,-70.2136628,True,False,True,S160877460
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L29140012,"Los Andes, Valparaíso, CL (-33,087, -70,212)",2024-01-25 10:53,2.0,-33.086592,-70.2123892,True,False,True,S160877422
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L28961541,"Alto del Carmen, Atacama, CL (-29.319, -70.029)",2024-01-27 10:19,,-29.3193887,-70.0292846,True,False,True,S159904481
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L1147111,Farellones,2024-01-28 09:38,3.0,-33.3520394,-70.3129292,True,False,False,S160022550
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L1147111,Farellones,2024-01-29 13:16,,-33.3520394,-70.3129292,True,False,False,S160116624
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L1066188,Farellones--Acantilados,2024-02-03 11:00,1.0,-33.365983,-70.3065964,True,False,False,S160522929
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L12968394,Termas del Plomo,2024-02-04 12:09,1.0,-33.6174645,-69.9092288,True,False,True,S160653051
+andfli1,Andean Flicker,Colaptes rupicola,L29115488,"Carretera Internacional CH 11, Putre, Arica y Parinacota, CL (-18.217, -69.292)",2024-02-05 11:20,2.0,-18.2173548,-69.2924,True,False,True,S160740671
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L1066188,Farellones--Acantilados,2024-02-11 09:55,1.0,-33.365983,-70.3065964,True,False,False,S161202773
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L29279681,"8171032, San José de Maipo CL-Santiago Metropolitan Region -33.62472, -70.02095",2024-02-15 14:38,1.0,-33.624722,-70.02095,True,False,True,S161628536
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L29298396,"Pulpería del Arriero (-33.7071,-70.1216)",2024-02-16 21:51,1.0,-33.707134,-70.121576,True,False,True,S161738533
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L4065625,"Humedal Ánima y Estero Poleo, Ruta D-115 Km 72",2024-02-17 15:13,4.0,-29.4971273,-70.5171204,True,False,False,S162290702
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L1066188,Farellones--Acantilados,2024-02-18 14:31,1.0,-33.365983,-70.3065964,True,False,False,S162167499
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L835079,Paso Pehuenche,2024-02-21 11:20,1.0,-35.9865838,-70.3950691,True,False,False,S162475791
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L29485830,"55 Los Cóndores, Lo Barnechea, Región Metropolitana, CL (-33.347, -70.305)",2024-02-24 07:30,1.0,-33.347114,-70.3048937,True,False,True,S162812665
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L29499760,"8171032, San José de Maipo CL-Región Metropolitana de Santiago -33.83534, -69.98592",2024-02-25 13:30,1.0,-33.835336,-69.985919,True,False,True,S162884931
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2024-02-25 11:40,3.0,-18.2026148,-69.2682409,True,False,False,S162946938
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L802007,Valle de las Termas del Plomo,2024-02-26 08:36,1.0,-33.6314865,-69.9248886,True,False,False,S163007978
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L638139,Piedra Numerada,2024-03-02 17:41,4.0,-33.2910414,-70.2188587,True,False,False,S163607475
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L5728749,Valle Nevado--Interior,2024-03-03 16:42,4.0,-33.3240739,-70.2489209,True,False,False,S163627762
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2024-03-03 11:00,6.0,-18.2026148,-69.2682409,True,False,False,S163601130
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L29748398,"Camino Embalse El Yeso, Las Yeseras, Región Metropolitana, CL (-33.65, -70.059)",2024-03-09 10:32,1.0,-33.6503707,-70.0592592,True,False,True,S164233725
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L29870458,"8171032, San José de Maipo CL-Santiago Metropolitan Region (-33.6189,-69.9124)",2024-03-14 09:25,1.0,-33.618882,-69.912386,True,False,True,S164897202
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L835079,Paso Pehuenche,2024-03-15 10:00,1.0,-35.9865838,-70.3950691,True,False,False,S165079510
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L802007,Valle de las Termas del Plomo,2024-03-17 10:02,1.0,-33.6314865,-69.9248886,True,False,False,S165224711
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L29973477,"Ruta 115, San Clemente, Maule, CL (-36.008, -70.559)",2024-03-18 15:33,2.0,-36.0075652,-70.559053,True,False,True,S165407667
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L1030452,Camino a La Parva--Vegas y Pastizales,2024-03-20 12:00,1.0,-33.3442243,-70.299046,True,False,False,S165743108
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L516158,Embalse El Yeso,2024-03-23 07:00,4.0,-33.6474929,-70.0670242,True,False,False,S166067679
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L5267143,Parque Andino Juncal--Sendero Juncal,2024-03-24 09:52,1.0,-32.916388,-70.09258,True,False,False,S165875669
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L802007,Valle de las Termas del Plomo,2024-03-25 10:20,1.0,-33.6314865,-69.9248886,True,False,False,S165997647
+andfli1,Andean Flicker,Colaptes rupicola,L30129542,"Ruta A-181, Putre, Arica y Parinacota, CL (-18.219, -69.284)",2024-03-27 18:41,1.0,-18.2193085,-69.2836025,True,False,True,S166209340
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L30255862,Valle La Engorda Y Ascenso al refugio el Plantat,2024-03-29 10:18,5.0,-33.814673,-70.0085212,True,False,True,S166804610
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L30237667,"7710068, Lo Barnechea CL-Región Metropolitana de Santiago (-33.2889,-70.2185)",2024-03-30 17:33,3.0,-33.288877,-70.218543,True,False,True,S166719151
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L6640039,Estero Las Yaretas--Vegas,2024-03-31 13:03,1.0,-33.3063734,-70.2378605,True,False,False,S166713622
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2024-04-04 07:02,11.0,-18.2026148,-69.2682409,True,False,False,S167309686
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L4978810,Estancia El Calvario,2024-04-06 12:30,1.0,-29.494018,-70.5739939,True,False,True,S167447046
+andfli1,Andean Flicker,Colaptes rupicola,L2349056,PN Lauca--Estación CONAF,2024-04-21 08:25,1.0,-18.2507578,-69.1767775,True,False,False,S169663583
+andfli1,Andean Flicker,Colaptes rupicola,L10697100,PN Lauca--Lago Chungará sur,2024-04-23 10:45,1.0,-18.2835621,-69.1343836,True,False,False,S170259437
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L31129988,"Camino Las Melosas (-33.8327,-70.2121)",2024-04-30 11:01,1.0,-33.832713,-70.212122,True,True,True,S171219778
+andfli1,Andean Flicker,Colaptes rupicola,L4185158,RN Las Vicuñas--Misitune,2024-05-05 13:30,3.0,-18.3692699,-69.3598223,True,False,False,S177157632
+andfli1,Andean Flicker,Colaptes rupicola,L31717662,Paquisa,2024-05-07 13:26,8.0,-18.701326,-69.070787,True,False,True,S174221726
+andfli1,Andean Flicker,Colaptes rupicola,L31717605,7 Curves River Area,2024-05-08 12:37,2.0,-18.471686,-69.271308,True,False,True,S174221324
+andfli1,Andean Flicker,Colaptes rupicola,L2349056,PN Lauca--Estación CONAF,2024-05-11 13:20,1.0,-18.2507578,-69.1767775,True,False,False,S174243503
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L516539,SN Yerba Loca--Zona de picnic,2024-05-11 11:21,1.0,-33.3102312,-70.3240013,True,True,False,S173705156
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2024-05-20 22:28,1.0,-18.2026148,-69.2682409,True,False,False,S176076493
+andfli1,Andean Flicker,Colaptes rupicola,L2349056,PN Lauca--Estación CONAF,2024-05-26 11:02,1.0,-18.2507578,-69.1767775,True,False,False,S177885142
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2024-05-31 08:03,1.0,-18.2026148,-69.2682409,True,False,False,S178438978
+andfli1,Andean Flicker,Colaptes rupicola,L572426,PN Lauca--Las Cuevas,2024-06-04 14:00,1.0,-18.1670566,-69.4337654,True,False,False,S179459203
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2024-06-05 12:05,2.0,-18.2026148,-69.2682409,True,False,False,S179911247
+andfli1,Andean Flicker,Colaptes rupicola,L33994449,Pucara,2024-06-20 13:41,2.0,-17.8198699,-69.3157076,True,False,False,S184108432
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2024-06-21 17:43,15.0,-18.2026148,-69.2682409,True,False,False,S182935608
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2024-06-26 13:43,4.0,-18.2026148,-69.2682409,True,False,False,S183899468
+andfli1,Andean Flicker,Colaptes rupicola,L33970040,"Sendero Parinacota, Putre CL-Región de Arica y Parinacota -18.20076, -69.26774",2024-06-27 09:31,2.0,-18.200764,-69.267737,True,False,True,S184011204
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2024-07-09 17:20,3.0,-18.2026148,-69.2682409,True,False,False,S186368120
+andfli1,Andean Flicker,Colaptes rupicola,L34766541,"Carretera Internacional CH 11, Chucuyo, Arica y Parinacota, CL (-18,22, -69,307)",2024-07-10 15:36,2.0,-18.2203422,-69.3072745,True,False,True,S187188873
+andfli1,Andean Flicker,Colaptes rupicola,L10697100,PN Lauca--Lago Chungará sur,2024-07-20 16:12,1.0,-18.2835621,-69.1343836,True,False,False,S188037276
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2024-08-04 14:49,1.0,-18.2026148,-69.2682409,True,False,False,S190275623
+andfli1,Andean Flicker,Colaptes rupicola,L10697100,PN Lauca--Lago Chungará sur,2024-08-09 14:42,2.0,-18.2835621,-69.1343836,True,False,False,S190793704
+andfli1,Andean Flicker,Colaptes rupicola,L4860428,Visviri,2024-08-12 17:31,1.0,-17.5966985,-69.4814229,True,False,False,S191250341
+andfli1,Andean Flicker,Colaptes rupicola,L35874735,pisarata  lado sur del bofedal...,2024-08-15 13:50,3.0,-18.0819062,-69.1975845,True,False,True,S191907962
+andfli1,Andean Flicker,Colaptes rupicola,L35863972,"A-93, Putre, Arica y Parinacota, CL (-18.072, -69.274)",2024-08-17 15:17,1.0,-18.072035,-69.2738483,True,False,True,S191858583
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2024-08-20 14:50,5.0,-18.2026148,-69.2682409,True,False,False,S192198677
+andfli1,Andean Flicker,Colaptes rupicola,L37282474,Parinacota,2024-09-01 08:00,4.0,-18.2002088,-69.2679864,True,False,True,S198626713
+andfli1,Andean Flicker,Colaptes rupicola,L3144495,Colpitas,2024-09-12 11:50,10.0,-17.9553418,-69.4543433,True,False,False,S194901626
+andfli1,Andean Flicker,Colaptes rupicola,L7869521,MN Salar de Surire--Chancacollo,2024-09-13 11:06,1.0,-18.8030231,-69.033383,True,False,False,S195008954
+andfli1,Andean Flicker,Colaptes rupicola,L516530,PN Lauca--Lago Chungará,2024-09-16 12:54,1.0,-18.2560888,-69.1623688,True,False,False,S197463353
+andfli1,Andean Flicker,Colaptes rupicola,L7373280,Visviri,2024-09-18 07:40,5.0,-17.596954,-69.480715,True,False,True,S195554664
+andfli1,Andean Flicker,Colaptes rupicola,L1048926,PN Lauca--Chucuyo,2024-09-24 15:28,6.0,-18.2161033,-69.3014574,True,False,False,S196398432
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L5067776,Camino Valle Nevado--Plaza de los Pumas,2024-10-12 19:32,1.0,-33.3598718,-70.2904201,True,False,False,S198604597
+andfli1,Andean Flicker,Colaptes rupicola,L16108482,"Avenida Simón Bolívar, Ajata, Arica y Parinacota, CL (-18,236, -69,182)",2024-10-12 17:42,1.0,-18.2359699,-69.1819814,True,False,True,S198628341
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2024-10-14 16:33,2.0,-18.2026148,-69.2682409,True,False,False,S198913611
+andfli1,Andean Flicker,Colaptes rupicola,L37393018,"A-155, Putre, Arica y Parinacota, CL (-17.984, -69.476) Chacapalla",2024-10-15 10:59,4.0,-17.9842818,-69.4758562,True,False,True,S199216524
+andfli1,Andean Flicker,Colaptes rupicola,L14373759,Niquela,2024-10-21 16:20,2.0,-18.1027496,-69.2520889,True,False,False,S199853524
+andfli1,Andean Flicker,Colaptes rupicola,L516530,PN Lauca--Lago Chungará,2024-10-22 10:50,2.0,-18.2560888,-69.1623688,True,False,False,S199930821
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L594542,Embalse El Yeso--Vegas superiores,2024-10-23 12:30,1.0,-33.6250545,-70.0251281,True,False,False,S200041502
+andfli1,Andean Flicker,Colaptes rupicola,L16261616,Chislluma,2024-10-24 13:09,1.0,-17.6755133,-69.6780247,True,False,False,S200098779
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L802007,Valle de las Termas del Plomo,2024-10-26 09:43,1.0,-33.6314865,-69.9248886,True,False,False,S200367731
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L1062972,Parque Andino Juncal,2024-10-27 14:29,1.0,-32.915954,-70.0926232,True,False,False,S200499977
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L516158,Embalse El Yeso,2024-10-28 10:30,1.0,-33.6474929,-70.0670242,True,False,False,S200793458
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L839755,Vega de Quepiaco,2024-10-30 08:52,1.0,-23.0821006,-67.5979918,True,True,False,S200848125
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L690108,SN Yerba Loca--vega arriba de la cascada,2024-11-02 16:00,3.0,-33.2204155,-70.2737689,True,False,False,S201295648
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L27419220,PN Laguna del Laja--Parque Antuco,2024-11-03 12:40,,-37.3942584,-71.4245046,True,False,False,S201318648
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2024-11-08 15:25,2.0,-18.2026148,-69.2682409,True,False,False,S201810675
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L37957948,"Camino a Termas del Plomo, San José de Maipo CL-Santiago Metropolitan Region -33.63214, -69.92759",2024-11-10 14:02,1.0,-33.632138,-69.927587,True,False,True,S202086382
+andfli1,Andean Flicker,Colaptes rupicola,L37996985,"Ruta A-181, Putre CL-Región de Arica y Parinacota -18.21366, -69.27564",2024-11-12 18:02,2.0,-18.213662,-69.275641,True,False,True,S202296075
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L38013106,"Camino al Yeso, San José de Maipo CL-Región Metropolitana de Santiago -33.61537, -69.97164",2024-11-13 10:05,1.0,-33.615367,-69.971643,True,False,True,S202390375
+andfli1,Andean Flicker,Colaptes rupicola,L2433936,PN Lauca--Lagunas Cotacotani,2024-11-13 09:56,1.0,-18.2064038,-69.2250252,True,False,False,S202388072
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L7120475,El Cabrerío,2024-11-14 17:57,1.0,-33.8152741,-70.0076401,True,False,False,S202527194
+andfli1,Andean Flicker,Colaptes rupicola,L38039491,Bofedal de Visviri,2024-11-14 17:12,7.0,-17.597099,-69.476378,True,False,True,S202549624
+andfli1,Andean Flicker,Colaptes rupicola,L38039491,Bofedal de Visviri,2024-11-15 06:33,1.0,-17.597099,-69.476378,True,False,True,S202528506
+andfli1,Andean Flicker,Colaptes rupicola,L4860428,Visviri,2024-11-16 15:20,2.0,-17.5966985,-69.4814229,True,False,False,S202828609
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L38076664,"Sendero Las Canchitas, Los Andes CL-Región de Valparaíso -32.92217, -70.08235",2024-11-16 11:04,1.0,-32.922173,-70.08235,True,False,True,S202711191
+andfli1,Andean Flicker,Colaptes rupicola,L2986531,PN Lauca--Casa vieja,2024-11-19 12:00,5.0,-18.2127735,-69.2750323,True,False,False,S203069856
+andfli1,Andean Flicker,Colaptes rupicola,L4429853,PN Lauca--Río Lauca (CH11),2024-11-21 07:39,7.0,-18.2160957,-69.3241261,True,False,False,S203204790
+andfli1,Andean Flicker,Colaptes rupicola,L1048926,PN Lauca--Chucuyo,2024-11-22 17:23,3.0,-18.2161033,-69.3014574,True,False,False,S203308016
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L5009661,Camino a Valle Nevado--Mirador de Cóndores,2024-11-23 13:44,1.0,-33.3670506,-70.2552004,True,False,False,S203384729
+andfli1,Andean Flicker,Colaptes rupicola,L27740577,"Avenida Simón Bolívar, Las Cuevas, Arica y Parinacota, CL (-18.164, -69.445)",2024-11-24 15:11,1.0,-18.1635887,-69.4449344,True,False,True,S203490316
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L21746260,Estero del Aparejo,2024-11-27 12:42,1.0,-33.5964592,-69.9984737,True,False,False,S203807244
+andfli1,Andean Flicker,Colaptes rupicola,L1048926,PN Lauca--Chucuyo,2024-11-28 10:45,4.0,-18.2161033,-69.3014574,True,False,False,S203917571
+andfli1,Andean Flicker,Colaptes rupicola,L1048926,PN Lauca--Chucuyo,2024-11-29 16:47,6.0,-18.2161033,-69.3014574,True,False,False,S204050807
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L38359687,"Camino al Yeso, San José de Maipo CL-Santiago Metropolitan Region -33.61531, -69.97197",2024-11-30 14:42,1.0,-33.61531,-69.971967,True,False,True,S204104464
+andfli1,Andean Flicker,Colaptes rupicola,L4860428,Visviri,2024-11-30 12:04,1.0,-17.5966985,-69.4814229,True,False,False,S204113779
+andfli1,Andean Flicker,Colaptes rupicola,L14186231,PN Lauca--Laguna Chica,2024-12-01 09:00,5.0,-18.2185463,-69.3181249,True,False,False,S204210717
+andfli1,Andean Flicker,Colaptes rupicola,L1048926,PN Lauca--Chucuyo,2024-12-03 11:15,3.0,-18.2161033,-69.3014574,True,False,False,S204370923
+andfli1,Andean Flicker,Colaptes rupicola,L572426,PN Lauca--Las Cuevas,2024-12-04 15:53,1.0,-18.1670566,-69.4337654,True,False,False,S204467816
+andfli1,Andean Flicker,Colaptes rupicola,L38446645,"Ruta A-181, Bofedal de Parinacota",2024-12-05 09:32,3.0,-18.2135718,-69.2756472,True,False,True,S204548024
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L13979572,Nevados del Chillán--Ruinas Refugio Waldorf,2024-12-07 11:28,1.0,-36.858911,-71.445971,True,False,False,S205033570
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L802007,Valle de las Termas del Plomo,2024-12-08 10:00,2.0,-33.6314865,-69.9248886,True,False,False,S204854475
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L802007,Valle de las Termas del Plomo,2024-12-09 12:03,1.0,-33.6314865,-69.9248886,True,False,False,S204953937
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L4147791,Cajón Las Arenas,2024-12-10 13:30,2.0,-33.7794327,-70.0334216,True,False,False,S205182161
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L802007,Valle de las Termas del Plomo,2024-12-11 09:20,3.0,-33.6314865,-69.9248886,True,False,False,S205117711
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L7072044,Sendero Falsa Parva--Laguna Piuquenes,2024-12-13 08:00,8.0,-33.3112253,-70.2587152,True,False,False,S205499125
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2024-12-14 15:30,1.0,-18.2026148,-69.2682409,True,False,False,S205414630
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L28666091,"Santuario de La Naturaleza Yerba Loca, Lo Barnechea CL-Región Metropolitana de Santiago -33.31458, -70.26973",2024-12-18 15:27,3.0,-33.31458,-70.269728,True,False,True,S205897734
+andfli1,Andean Flicker,Colaptes rupicola,L18587047,"A-93, General Lagos, Arica y Parinacota, CL (-17.615, -69.475)",2024-12-21 13:10,1.0,-17.6149722,-69.4754494,True,False,True,S206112632
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L11185562,SN Yerba Loca--Quebrada El Manzano,2024-12-21 10:30,7.0,-33.3306764,-70.3270974,True,False,False,S206454594
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L1115113,San Alfonso,2024-12-24 02:54,3.0,-33.7264812,-70.3208256,True,False,False,S206464754
+andfli1,Andean Flicker,Colaptes rupicola,L4860428,Visviri,2024-12-29 12:46,2.0,-17.5966985,-69.4814229,True,False,False,S207125998
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L39002094,"Parque Andino Juncal, Vegas de Nacimiento",2024-12-29 10:52,1.0,-32.963725,-70.106166,True,False,True,S207194305
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L1066188,Farellones--Acantilados,2024-12-30 11:40,2.0,-33.365983,-70.3065964,True,False,False,S208173480
+andfli1,Andean Flicker,Colaptes rupicola,L7373280,Visviri,2025-01-04 13:58,3.0,-17.596954,-69.480715,True,False,True,S208061282
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L39223652,Bocatoma Los Molles,2025-01-04 09:00,1.0,-30.7459527,-70.4196488,True,False,True,S208261169
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L5209939,Los Libertadores,2025-01-05 14:35,2.0,-32.846367,-70.117242,True,False,False,S208255488
+andfli1,Andean Flicker,Colaptes rupicola,L34789627,PN Lauca--Mirador Cotacotani,2025-01-05 11:55,2.0,-18.2174486,-69.2288017,True,False,False,S208181379
+andfli1,Andean Flicker,Colaptes rupicola,L10219109,RN Las Vicuñas,2025-01-06 10:00,4.0,-18.4724333,-69.3018203,True,False,True,S208307821
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L594542,Embalse El Yeso--Vegas superiores,2025-01-09 12:05,1.0,-33.6250545,-70.0251281,True,False,False,S208666549
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L39383292,"Río Blanco National Reserve, Los Andes CL-Región de Valparaíso -32.92873, -70.30151",2025-01-11 17:06,1.0,-32.928735,-70.301513,True,False,True,S209065553
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L1066188,Farellones--Acantilados,2025-01-12 11:31,1.0,-33.365983,-70.3065964,True,False,False,S209013393
+andfli1,Andean Flicker,Colaptes rupicola,L39443511,"Ruta A-181, Putre CL-Arica y Parinacota Region -18.21551, -69.27841",2025-01-15 11:30,1.0,-18.215506,-69.278406,True,False,True,S209382405
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L39065685,Vegas Quebrada de los Caballos,2025-01-15 10:24,2.0,-33.6101074,-69.9780655,True,False,False,S209435062
+andfli1,Andean Flicker,Colaptes rupicola,L2986531,PN Lauca--Casa vieja,2025-01-19 15:50,7.0,-18.2127735,-69.2750323,True,False,False,S210858078
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L802007,Valle de las Termas del Plomo,2025-01-20 12:14,1.0,-33.6314865,-69.9248886,True,False,False,S210085524
+andfli1,Andean Flicker,Colaptes rupicola,L10697100,PN Lauca--Lago Chungará sur,2025-01-20 11:02,1.0,-18.2835621,-69.1343836,True,False,False,S210858027
+andfli1,Andean Flicker,Colaptes rupicola,L39646317,"Ruta A-181, Putre, Arica y Parinacota, CL (-18.208, -69.271)",2025-01-22 12:17,2.0,-18.2079468,-69.2705106,True,False,True,S210388898
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L39633228,"Salamanca, Coquimbo, CL (-31,71, -70,526)",2025-01-22 11:22,4.0,-31.7099679,-70.5258769,True,False,True,S210345365
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2025-01-24 15:09,2.0,-18.2026148,-69.2682409,True,False,False,S210716660
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L835079,Paso Pehuenche,2025-01-29 16:00,1.0,-35.9865838,-70.3950691,True,False,False,S211301183
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L724695,Vados del Putana,2025-02-01 18:30,1.0,-22.533805,-68.0335236,True,True,False,S211852867
+andfli1,Andean Flicker,Colaptes rupicola,L24761701,Humedal de Tacora,2025-02-01 14:51,1.0,-17.7784205,-69.7135591,True,False,True,S211543721
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2025-02-02 18:57,3.0,-18.2026148,-69.2682409,True,False,False,S211746968
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2025-02-03 19:59,4.0,-18.2026148,-69.2682409,True,False,False,S215721230
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L802007,Valle de las Termas del Plomo,2025-02-03 13:15,1.0,-33.6314865,-69.9248886,True,False,False,S211867106
+andfli1,Andean Flicker,Colaptes rupicola,L40671450,Parinacota 2,2025-02-04 10:35,3.0,-18.207614,-69.2701075,True,False,True,S215722111
+andfli1,Andean Flicker,Colaptes rupicola,L34940276,Nasahuento,2025-02-06 14:14,1.0,-17.9276961,-69.3364126,True,False,False,S212240723
+andfli1,Andean Flicker,Colaptes rupicola,L38039491,Bofedal de Visviri,2025-02-07 14:17,1.0,-17.597099,-69.476378,True,False,True,S212364572
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2025-02-08 15:26,2.0,-18.2026148,-69.2682409,True,False,False,S212755770
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L1066188,Farellones--Acantilados,2025-02-10 14:50,1.0,-33.365983,-70.3065964,True,False,False,S213631101
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L27525461,"2400 Camino Valle Nevado, Lo Barnechea, Región Metropolitana, CL (-33,359, -70,295)",2025-02-11 09:07,1.0,-33.3594533,-70.2952324,True,False,True,S212884309
+andfli1,Andean Flicker,Colaptes rupicola,L37393018,"A-155, Putre, Arica y Parinacota, CL (-17.984, -69.476) Chacapalla",2025-02-12 11:03,1.0,-17.9842818,-69.4758562,True,False,True,S213019352
+andfli1,Andean Flicker,Colaptes rupicola,L42201649,"A-155, Putre, Arica y Parinacota, CL (-17.984, -69.474)",2025-02-13 11:39,1.0,-17.9837476,-69.4743301,True,False,True,S223452797
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L819912,Camino Embalse El Yeso--Vega al costado del camino,2025-02-14 15:25,1.0,-33.6900671,-70.1072252,True,False,False,S214065648
+andfli1,Andean Flicker,Colaptes rupicola,L40217304,"A-93, Putre, Arica y Parinacota, CL (-18.211, -69.269)",2025-02-14 12:29,1.0,-18.2108108,-69.2692792,True,False,True,S213237479
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L802007,Valle de las Termas del Plomo,2025-02-15 14:36,1.0,-33.6314865,-69.9248886,True,False,False,S213782252
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L9985066,Laguna Matancilla,2025-02-16 13:00,1.0,-34.1931839,-70.3328575,True,False,False,S214162512
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L802007,Valle de las Termas del Plomo,2025-02-18 11:37,1.0,-33.6314865,-69.9248886,True,False,False,S214946514
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L2148311,La Parva--Vegas Noroeste,2025-02-19 08:10,11.0,-33.3276597,-70.297308,True,False,False,S214410955
+andfli1,Andean Flicker,Colaptes rupicola,L2986531,PN Lauca--Casa vieja,2025-02-22 10:10,2.0,-18.2127735,-69.2750323,True,False,False,S215114159
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L40585196,"Ruta 31, Copiapó, Atacama, CL (-26.899, -68.436)",2025-02-24 09:23,1.0,-26.8991633,-68.4364483,True,False,True,S215255334
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L802007,Valle de las Termas del Plomo,2025-02-25 17:19,1.0,-33.6314865,-69.9248886,True,False,False,S215584587
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L4147791,Cajón Las Arenas,2025-03-01 16:11,3.0,-33.7794327,-70.0334216,True,False,False,S247135033
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L6057635,Camino a Farellones--Plazoleta Negra,2025-03-02 11:36,1.0,-33.3520484,-70.329296,True,False,False,S216299886
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L22954290,"8171032, San José de Maipo CL-Santiago -33.61824, -69.91125",2025-03-04 14:32,1.0,-33.618244,-69.911252,True,False,True,S216664748
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L2148311,La Parva--Vegas Noroeste,2025-03-05 11:03,2.0,-33.3276597,-70.297308,True,False,False,S216745861
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L3401193,Corrales,2025-03-08 13:32,8.0,-30.189238,-69.9133042,True,True,False,S219510111
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L4610999,Vega Las Cuevas,2025-03-09 10:44,1.0,-29.4520389,-70.5828077,True,False,False,S217551575
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L4444177,Laguna de los Patos,2025-03-12 12:21,1.0,-33.6044152,-69.9186981,True,False,False,S218151384
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L802007,Valle de las Termas del Plomo,2025-03-16 12:00,2.0,-33.6314865,-69.9248886,True,False,False,S219066838
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L6433039,Camino Embalse El Yeso--Cascada al costado del camino,2025-03-17 16:06,1.0,-33.6758899,-70.0849025,True,False,False,S219151973
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L4444177,Laguna de los Patos,2025-03-18 13:23,1.0,-33.6044152,-69.9186981,True,False,False,S219307874
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L39633228,"Salamanca, Coquimbo, CL (-31,71, -70,526)",2025-03-19 14:44,2.0,-31.7099679,-70.5258769,True,False,True,S219749224
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L39633228,"Salamanca, Coquimbo, CL (-31,71, -70,526)",2025-03-20 11:48,11.0,-31.7099679,-70.5258769,True,True,True,S219749049
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L2600242,Juntas del Toro - Los Corrales,2025-03-21 15:56,,-30.1566571,-69.8794547,True,False,False,S219947815
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L594542,Embalse El Yeso--Vegas superiores,2025-03-22 15:07,1.0,-33.6250545,-70.0251281,True,False,False,S220112626
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2025-03-22 10:48,3.0,-18.2026148,-69.2682409,True,False,False,S220442336
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L4444177,Laguna de los Patos,2025-03-23 12:14,1.0,-33.6044152,-69.9186981,True,False,False,S222327768
+andfli1,Andean Flicker,Colaptes rupicola,L14186231,PN Lauca--Laguna Chica,2025-03-23 09:48,5.0,-18.2185463,-69.3181249,True,False,False,S220316965
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2025-03-24 12:20,10.0,-18.2026148,-69.2682409,True,False,False,S223481425
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L802007,Valle de las Termas del Plomo,2025-03-25 14:16,1.0,-33.6314865,-69.9248886,True,False,False,S221020547
+andfli1,Andean Flicker,Colaptes rupicola,L2349056,PN Lauca--Estación CONAF,2025-03-26 13:25,2.0,-18.2507578,-69.1767775,True,False,False,S222140536
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L802007,Valle de las Termas del Plomo,2025-03-26 08:27,2.0,-33.6314865,-69.9248886,True,False,False,S220967127
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L3401210,La Colorada,2025-03-28 12:35,2.0,-30.2612148,-69.9948286,True,False,False,S221696130
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L4444177,Laguna de los Patos,2025-03-29 15:35,2.0,-33.6044152,-69.9186981,True,False,False,S221686742
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L22121881,PN Laguna del Laja--Los Barros,2025-03-30 12:02,2.0,-37.4604265,-71.3174991,True,False,False,S222385407
+andfli1,Andean Flicker,Colaptes rupicola,L41880494,"Avenida Simón Bolívar, Las Cuevas, Arica y Parinacota, CL (-18.169, -69.429)",2025-03-30 09:46,1.0,-18.1691118,-69.4286402,True,False,True,S221833148
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L42219719,Sendero desde las termas hasta la laguna los patos,2025-04-05 11:08,1.0,-33.616951,-69.908713,True,True,True,S223534266
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L17641137,Laguna El Planchón,2025-04-15 15:15,1.0,-35.1687427,-70.5442491,True,True,False,S226134926
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2025-04-19 11:58,2.0,-18.2026148,-69.2682409,True,False,False,S227085586
+andfli1,Andean Flicker,Colaptes rupicola,L10697100,PN Lauca--Lago Chungará sur,2025-04-20 12:18,2.0,-18.2835621,-69.1343836,True,False,False,S227624326
+andfli1,Andean Flicker,Colaptes rupicola,L16838721,Bofedal de Chañopanta,2025-04-23 11:04,2.0,-18.1011848,-69.284063,True,False,False,S229071529
+andfli1,Andean Flicker,Colaptes rupicola,L10697100,PN Lauca--Lago Chungará sur,2025-04-24 14:07,3.0,-18.2835621,-69.1343836,True,False,False,S229061638
+andfli1,Andean Flicker,Colaptes rupicola,L25837991,Villa Industrial,2025-04-25 10:53,3.0,-17.7764731,-69.7098584,True,False,False,S230286342
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2025-05-06 17:05,7.0,-18.2026148,-69.2682409,True,False,False,S269926574
+andfli1,Andean Flicker,Colaptes rupicola,L44654867,Laguna de Chucuyo,2025-05-10 17:22,2.0,-18.2052035,-69.3002248,True,False,True,S235989361
+andfli1,Andean Flicker,Colaptes rupicola,L2986531,PN Lauca--Casa vieja,2025-05-19 12:09,2.0,-18.2127735,-69.2750323,True,False,False,S240253776
+andfli1,Andean Flicker,Colaptes rupicola,L10691581,RN Las Vicuñas--Bofedal de Paquisa,2025-05-22 11:08,2.0,-18.6902522,-69.0933958,True,False,False,S241228510
+andfli1,Andean Flicker,Colaptes rupicola,L572426,PN Lauca--Las Cuevas,2025-06-03 09:31,1.0,-18.1670566,-69.4337654,True,False,False,S246286279
+andfli1,Andean Flicker,Colaptes rupicola,L12948689,RN Las Vicuñas--Humedal Ancuta,2025-06-04 10:42,3.0,-18.4462979,-69.197399,True,False,False,S246696508
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2025-06-16 11:23,4.0,-18.2026148,-69.2682409,True,False,False,S251527907
+andfli1,Andean Flicker,Colaptes rupicola,L37393018,"A-155, Putre, Arica y Parinacota, CL (-17.984, -69.476) Chacapalla",2025-06-17 12:25,1.0,-17.9842818,-69.4758562,True,False,True,S251841521
+andfli1,Andean Flicker,Colaptes rupicola,L37393018,"A-155, Putre, Arica y Parinacota, CL (-17.984, -69.476) Chacapalla",2025-06-19 12:22,2.0,-17.9842818,-69.4758562,True,False,True,S257827501
+andfli1,Andean Flicker,Colaptes rupicola,L16261616,Chislluma,2025-07-04 16:22,1.0,-17.6755133,-69.6780247,True,False,False,S256958217
+andfli1,Andean Flicker,Colaptes rupicola,L572426,PN Lauca--Las Cuevas,2025-07-05 12:16,1.0,-18.1670566,-69.4337654,True,False,False,S257215388
+andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,2025-07-13 10:08,7.0,-18.2026148,-69.2682409,True,False,False,S259987158
+andfli1,Andean Flicker,Colaptes rupicola,L2349056,PN Lauca--Estación CONAF,2025-07-19 16:00,1.0,-18.2507578,-69.1767775,True,False,False,S273246636
+andfli1,Andean Flicker,Colaptes rupicola,L40121052,"Ruta A-181, Bofedal de Parinacota",2025-07-31 11:21,6.0,-18.2071841,-69.2702854,True,False,True,S264057543

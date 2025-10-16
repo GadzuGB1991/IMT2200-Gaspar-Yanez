@@ -1,0 +1,17 @@
+speciesCode,comName,sciName,locId,locName,obsDt,howMany,lat,lng,obsValid,obsReviewed,locationPrivate,subId
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L5462210,Aguas Calientes--Vegas,2022-02-02 09:30,1,-36.907567,-71.3720101,True,False,False,S146863387
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L802007,Valle de las Termas del Plomo,2022-02-04 14:02,2,-33.6314865,-69.9248886,True,False,False,S102184089
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L677238,Valle Nevado,2022-02-06 14:30,1,-33.3564128,-70.2490819,True,False,False,S102171924
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L516158,Embalse El Yeso,2022-02-07 11:00,1,-33.6474929,-70.0670242,True,False,False,S102275209
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L594542,Embalse El Yeso--Vegas superiores,2022-02-10 06:44,1,-33.6250545,-70.0251281,True,False,False,S102600172
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L594542,Embalse El Yeso--Vegas superiores,2022-02-11 06:01,1,-33.6250545,-70.0251281,True,False,False,S102430702
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L594542,Embalse El Yeso--Vegas superiores,2022-02-12 13:39,1,-33.6250545,-70.0251281,True,False,False,S102515044
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L17641137,Laguna El Planchón,2022-02-15 11:30,2,-35.1687427,-70.5442491,True,False,False,S102965082
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L17768493,Embalse el Yeso,2022-02-16 14:00,1,-33.6383,-70.0307,True,False,True,S102766915
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L677238,Valle Nevado,2022-02-20 11:00,2,-33.3564128,-70.2490819,True,False,False,S103281974
+andfli1,Andean Flicker,Colaptes rupicola,L17867930,"Parque Nacional Lauca, Putre CL-Arica y Parinacota -18.20612, -69.26895",2022-02-21 13:45,6,-18.20612,-69.268947,True,False,True,S103387722
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L17901690,P.N Laguna Laja,2022-02-22 14:00,2,-37.3969412,-71.4556082,True,False,True,S103600481
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L17899250,"8171032, San José de Maipo CL-Santiago -33.61798, -69.91009",2022-02-23 11:50,1,-33.617983,-69.910086,True,False,True,S103586132
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L4376534,Río Hurtado--Majada Quebrada La Piedra,2022-02-24 14:00,1,-30.5582942,-70.3177303,True,False,False,S103974726
+andfli1,Andean Flicker,Colaptes rupicola,L572426,PN Lauca--Las Cuevas,2022-02-26 13:18,1,-18.1670566,-69.4337654,True,False,False,S103795354
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L4065625,"Humedal Ánima y Estero Poleo, Ruta D-115 Km 72",2022-02-26 11:03,3,-29.4971273,-70.5171204,True,False,False,S103783596
