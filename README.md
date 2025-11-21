@@ -1,7 +1,7 @@
 Gaspar Alejandro Yanez Flores
 # Proyecto IMT-2200: Análisis de Datos Demográficos de Chile
 
-## 📋 Descripción del Proyecto
+##  Descripción del Proyecto
 
 Este proyecto analiza tendencias demográficas en Chile, enfocándose en:
 - **Nacimientos** (1992-2022): Análisis de series temporales de nacimientos por región, edad de progenitores y educación
@@ -12,7 +12,7 @@ Este proyecto analiza tendencias demográficas en Chile, enfocándose en:
 
 ---
 
-## 📁 Estructura del Repositorio
+##  Estructura del Repositorio
 
 ```
 .
@@ -21,7 +21,7 @@ Este proyecto analiza tendencias demográficas en Chile, enfocándose en:
 ├── a.ipynb                            # Notebook exploratorio inicial
 │
 ├── notebooks/                         # Jupyter Notebooks con análisis
-│   ├── analisis_final.ipynb          # 📊 NOTEBOOK PRINCIPAL - Análisis completo
+│   ├── analisis_final.ipynb          #  NOTEBOOK PRINCIPAL - Análisis completo
 │   ├── orden_series_nacimiento.ipynb # Limpieza y procesamiento de datos de nacimientos
 │   ├── rsh_unir_limpiar.ipynb        # Unificación y limpieza de datos RSH
 │   ├── info_IV.ipynb                 # Procesamiento de índice de vulnerabilidad
@@ -70,11 +70,11 @@ Este proyecto analiza tendencias demográficas en Chile, enfocándose en:
 
 ---
 
-## 🚀 Cómo Usar Este Repositorio
+##  Cómo Usar Este Repositorio
 
 ### Requisitos Previos
 - Python 3.12.0+
-- Pandas, NumPy, Matplotlib, Seaborn
+- Pandas, NumPy, Matplotlib, Seaborn, scikit-learn
 
 ### Instalación de Dependencias
 
@@ -96,7 +96,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📊 Descripción de Notebooks
+##  Descripción de Notebooks
 
 | Notebook | Descripción | Entrada | Salida |
 |----------|-------------|---------|--------|
@@ -108,7 +108,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🔑 Hallazgos Principales
+##  Hallazgos Principales
 
 - **Tendencia de natalidad**: Tendencia decreciente en nacimientos desde 1992
 - **Vulnerabilidad social**: Concentración de vulnerabilidad en comunas específicas
@@ -116,14 +116,9 @@ pip install -r requirements.txt
 
 ---
 
-## 📝 Fuentes de Datos
+##  Fuentes de Datos
 
 - [INE - Censos de Población](https://www.ine.gob.cl/estadisticas/sociales/censos-de-poblacion-y-vivienda/censo-de-poblacion-y-vivienda)
 - [Ministerio de Desarrollo Social - Índice de Vulnerabilidad Social](https://www.desarrollosocialyfamilia.gob.cl/)
 - Series de nacimientos 1992-2022
 
----
-
-## ✉️ Contacto
-
-Para consultas sobre el proyecto, contactar al equipo de desarrollo.
